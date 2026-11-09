@@ -1,0 +1,14 @@
+public class TwoSum: Defines our class.
+
+int[]: Represents an integer array.
+
+twoSum(): Our method for finding the indices.
+
+nums.length: Gets the number of elements in the array.
+
+for: Repeats instructions.
+
+if: Checks a condition.
+
+new int[]{i, j}: Creates an array containing the two indices.
+
